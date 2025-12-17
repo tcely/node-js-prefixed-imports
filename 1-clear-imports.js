@@ -7,6 +7,6 @@ import crypto from "node:crypto";
 import lodash from "lodash";
 import url from "node:url";
 import axios from "axios";
-import os from "node;
+import os from "node:os";
 
-console.log('Built-in modules are now obvious!');
+console.log("Built-in modules are now obvious!");
